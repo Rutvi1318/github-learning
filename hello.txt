@@ -1,5 +1,0 @@
-Hello GitHub!
-
-I am learning GitHub.
-This is my first practice file.
-I am practicing file editing.
